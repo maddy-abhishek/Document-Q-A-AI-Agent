@@ -11,16 +11,6 @@ This is a Streamlit web application that allows you to chat with your PDF docume
 
   - High-Speed Responses: Powered by the Groq API for fast language model inference.
 
-# Project Structure
-
-/Document_QnA_Agent
-|-- app.py                # Main Streamlit application
-|-- document_ingestion.py # Handles PDF loading and text splitting
-|-- qa_agent.py           # Core agent logic with LangChain and Groq
-|-- arxiv_search.py       # Arxiv API integration
-|-- tools.py              # Defines agent tools (Tavily, Arxiv)
-|-- requirements.txt      # Python dependencies
-|-- README.md             # This file
 
 # Setup and Installation
 
